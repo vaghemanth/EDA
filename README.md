@@ -1,7 +1,6 @@
-# EDA
-# Analysis Notebook
+# EDA Analysis Notebooks
 
-Jupyter Notebooks showcasing a complete data analysis workflow.
+Jupyter Notebooks showcasing a Complete Data Analysis workflow.
 
 ---
 
